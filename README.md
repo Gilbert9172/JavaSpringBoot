@@ -27,3 +27,9 @@
 [스프링 컨테이너와 빈](https://www.notion.so/aa3ccbe53b484930a9fa5fcd300bae20)
 
 ---
+
+> 2022.02.11
+
+[싱글톤 컨테이너](https://www.notion.so/a2217f63e9ec4b6b92edabdc592f01bb)
+
+---
