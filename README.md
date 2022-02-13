@@ -33,3 +33,15 @@
 [싱글톤 컨테이너](https://www.notion.so/a2217f63e9ec4b6b92edabdc592f01bb)
 
 ---
+
+> 2022.02.12
+
+[컴포넌트 스캔](https://www.notion.so/55ca0b70826846b5be97c6edd2ee853c)
+
+---
+
+> 2022.02.13
+
+[의존관계 자동 주입](https://www.notion.so/6e6395e2247b49d79e54b21b379b79ab)
+
+---
