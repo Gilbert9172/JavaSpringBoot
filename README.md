@@ -51,3 +51,9 @@
 [빈 생명주기 콜백 시작](https://www.notion.so/d6312a31e08245f6b3d063f7952c2a20)
 
 ---
+
+> 2022.02.15(화)
+
+[빈 스코프1](https://www.notion.so/992b61ad4f594387bf6a052ab59cefee)
+
+---
