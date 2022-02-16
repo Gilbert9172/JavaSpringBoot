@@ -57,3 +57,9 @@
 [빈 스코프1](https://www.notion.so/992b61ad4f594387bf6a052ab59cefee)
 
 ---
+
+> 2022.02.16(수) - 1회 완강
+
+[빈 스코프2](https://www.notion.so/992b61ad4f594387bf6a052ab59cefee)
+
+---
