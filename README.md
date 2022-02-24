@@ -82,3 +82,9 @@
 [MVC 프레임워크 만들기](https://www.notion.so/MVC-61a8e518c4b54d388426d2ed214bc852)
 
 ---
+
+> 2022.02.24(목)
+
+[스프링 MVC - 구조이해](https://www.notion.so/MVC-4fc346cf54a74816befc338e7fb17920)
+
+---
