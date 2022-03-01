@@ -122,7 +122,9 @@
 
 ## Spring MVC 2편
 
-> 2022.02.
+> 2022.03.01 (화)
+
+[타임리프 기본기능](https://www.notion.so/0d325aa590844b8aac3ce7cada09bfcd)
 
 ---
 
