@@ -146,4 +146,11 @@
 
 ---
 
+> 2022.03.09 (수)
+
+[BeanValidation](https://www.notion.so/2-BeanValidation-51e5f90c15f941918db35f0b00d95616)
+
+---
+
+
 
